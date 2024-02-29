@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
 
+
 :root{
     --cor-do-fundo: #1e1e1e;
     --verde: #6FFF57;
@@ -12,6 +13,7 @@
 body {
     background-color: var(--cor-do-fundo);
     color: var(--branco);
+    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -42,4 +44,3 @@ body {
     border-top: none;
 }
 
-}
