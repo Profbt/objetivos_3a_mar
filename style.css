@@ -13,7 +13,7 @@
 body {
     background-color: var(--cor-do-fundo);
     color: var(--branco);
-    
+    font-family: "Chakra Petch", sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -29,9 +29,10 @@ body {
 
 }
 
-.botoes {
+.botao {
     background-color: var(--botao-inativo);
     color: var(--branco);
+    font-family: "Chakra Petch", sans-serif;
     font-size: 24px;
     margin-top: 16px;
     padding: 0.5em 1em;
