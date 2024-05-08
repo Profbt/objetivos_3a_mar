@@ -41,7 +41,7 @@ body {
     color: var(--branco);
     font-family: "Chakra Petch", sans-serif;
     font-size: 16px;
-    padding: 0.5em 1em;
+    padding: 10px 20px;
     cursor: pointer;
     transition: background-color 0.3s;
     width: 100%;    
